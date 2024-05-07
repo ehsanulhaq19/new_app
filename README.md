@@ -114,7 +114,7 @@ To get the swagger documentation of all the backend apis, Use this url
 
   To see a demonstration of the project in action, you can watch the following video:
 
-  [![Project Demo](https://drive.google.com/file/d/1g7p7ffTMJ0fvVF7nN3iGf4C2dmLIk_c6/view?usp=drive_link)
+  [![Project Demo](https://drive.google.com/file/d/1g7p7ffTMJ0fvVF7nN3iGf4C2dmLIk_c6/view?usp=drive_link)](https://drive.google.com/file/d/1g7p7ffTMJ0fvVF7nN3iGf4C2dmLIk_c6/view?usp=drive_link)
   
 
 </details>
